@@ -33,7 +33,8 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: hugo38rodrigues
-          output_path: profile/trophy.svg
+          file: profile/trophy.svg
+          theme: tokyonight
           token: ${{ secrets.PAT }}
 
       - name: Streak
