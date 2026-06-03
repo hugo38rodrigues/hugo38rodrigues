@@ -19,7 +19,7 @@ jobs:
           card: top-langs
           options: username=hugo38rodrigues&layout=compact&theme=tokyonight&hide_border=true
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT }}
 
       - name: Stats
         uses: readme-tools/github-readme-stats-action@v1
@@ -27,21 +27,21 @@ jobs:
           card: stats
           options: username=hugo38rodrigues&show_icons=true&theme=tokyonight&hide_border=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT}}
 
       - name: Trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: hugo38rodrigues
           output_path: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT }}
 
       - name: Streak
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
           options: user=hugo38rodrigues&theme=tokyonight&hide_border=true
           path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT }}
 
       - name: Commit cards
         run: |
