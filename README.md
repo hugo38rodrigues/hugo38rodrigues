@@ -1,6 +1,5 @@
 <!--
   README de profil GitHub — Dev Full-Stack
-  À remplacer partout :  hugo38rodrigues  •  Ton Nom  •  tes liens
 -->
 
 <h1 align="center">
@@ -24,10 +23,8 @@
 
 ### 🚀 À propos de moi
 
-- 🔭 Je travaille actuellement sur **[ton projet / ton poste]**
-- 🌱 J'apprends en ce moment **[techno que tu explores]**
-- 💬 Demande-moi sur **[ton domaine de prédilection]**
-- ⚡ Pour le fun : **[un fait sympa sur toi]**
+- 🔭 Je travaille actuellement sur **mon site perso et des projets IOT Arduino**
+- 🌱 J'apprends en ce moment le **C/C++**
 
 ---
 
@@ -35,6 +32,7 @@
 **Frontend**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
@@ -67,7 +65,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugo38rodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo38rodrigues&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="./profile/top-langs.svg" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -84,10 +82,9 @@
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| [**Projet 1**](https://github.com/hugo38rodrigues/projet-1) | Brève description en une ligne | React · Node · SQL |
-| [**Projet 2**](https://github.com/hugo38rodrigues/projet-2) | Brève description en une ligne | Vue · Express · MongoDB |
-| [**Projet 3**](https://github.com/hugo38rodrigues/projet-3) | Brève description en une ligne | Python · Docker |
+| [**Hall-e**](https://github.com/hugo38rodrigues/hall-e) | Application qui permet de savoir quand passe le match de son équipe préfére d'esport| Flutter · Node · SQL |
+| [**GazSensorRobot**](https://github.com/hugo38rodrigues/GazSensorRobot) | Robot décteur d'incendie | Arduino · C++|
 
 ---
 
-<p align="center"><i>« Une citation ou une devise qui te ressemble. »</i></p>
+<p align="center"><i>«Résolution de problèmes, apprentissage continu et sens des responsabilités définissent mon approche professionnelle. .»</i></p>
