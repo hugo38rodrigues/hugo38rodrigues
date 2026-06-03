@@ -64,16 +64,16 @@
 ### 📊 Mes statistiques GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugo38rodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img src="./profile/stats.svg" alt="GitHub Stats"/>
   <img height="180em" src="./profile/top-langs.svg" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hugo38rodrigues&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hugo38rodrigues&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies"/>
+  <img src="./profile/trophy.svg" alt="Trophies"/>
 </p>
 
 ---
