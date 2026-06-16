@@ -23,7 +23,7 @@
 
 ### 🚀 À propos de moi
 
-- 🔭 Je travaille actuellement sur **mon site perso et des projets IOT Arduino**
+- 🔭 Je travaille actuellement sur **mon site perso et des projets embarquer Arduino**
 - 🌱 J'apprends en ce moment le **C/C++**
 
 ---
