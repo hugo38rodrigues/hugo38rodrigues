@@ -82,8 +82,8 @@
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| [**Hall-e**](https://github.com/hugo38rodrigues/hall-e) | Application qui permet de savoir quand passe le match de son équipe préfére d'esport| Flutter · Node · SQL |
-| [**GazSensorRobot**](https://github.com/hugo38rodrigues/GazSensorRobot) | Robot décteur d'incendie | Arduino · C++|
+| [**Hall-e**](https://github.com/hugo38rodrigues/hall-e) | Application mobile permettant de suivre le planning et les horaires de diffusion de vos équipes d'esport. | Flutter · Node · SQL |
+| [**GazSensorRobot**](https://github.com/hugo38rodrigues/GazSensorRobot) | Robot détécteur d'incendie d'usine | Arduino · C++|
 
 ---
 
