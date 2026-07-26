@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rodrigues-hugo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:hugo38.rodrigues@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://ton-portfolio.com"><img src="https://hugo-rodrigues.com" alt="Portfolio"/></a>
+  <a href="https://hugo-rodrigues.com"><img src="" alt="Portfolio"/></a>
   <img src="https://komarev.com/ghpvc/?username=hugo38rodrigues&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
